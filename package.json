@@ -87,7 +87,7 @@
     "@sentry/webpack-plugin": "^1.14.1",
     "babel-loader": "^8.2.2",
     "cross-env": "^7.0.3",
-    "css-loader": "^5.1.0",
+    "css-loader": "^5.2.7",
     "dotenv": "^8.2.0",
     "electron": "^11.3.0",
     "electron-installer-windows": "^3.0.0",
